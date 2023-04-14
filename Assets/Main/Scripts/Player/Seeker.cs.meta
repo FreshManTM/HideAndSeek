@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: a171f57089f206a4caccb9dd5e4a33e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - turnToSeekerSound: {fileID: 8300000, guid: 5ddaff564aa5a95469c578d04e1817e3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

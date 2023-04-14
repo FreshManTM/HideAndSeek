@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f27fae66df494654fa0c90c05ffc6c78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hiderPrefab: {instanceID: 0}
+  - seekerPrefab: {instanceID: 0}
+  - gamOverCanvas: {instanceID: 0}
+  - playerWonText: {instanceID: 0}
+  - testText: {instanceID: 0}
+  - testPlayer: {fileID: 2885469660907667465, guid: a4d3dc51c13b68d4494d3b7d35b01eb3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
